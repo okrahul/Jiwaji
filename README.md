@@ -2,6 +2,7 @@
 Looking and function like windows 10 💻 calculate. <br>
 <a href="https://ibb.co/SJ8kYMk"><img src="https://i.ibb.co/52yQpSQ/windows.png" alt="windows" border="0" width="550px"></a><br><hr>
 Live Demo <a href="https://windowscalculator.netlify.app/" target="_blank"> #WindowsCalculator </a>
+<h4> CodePen Link: <a href="https://codepen.io/okrahul/pen/jOGWyKz"> CodePen-WindowsCalculate</a> </h4>
 <h3>Technologies used:</h3>
 <li>HTML(Structure Building)</li>
 <li>CSS(Designing/Presentation)</li>
